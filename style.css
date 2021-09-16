@@ -4,6 +4,6 @@ code {  color: #660000;
 pre {  color: #660000; font-family: Verdana, Arial, Helvetica, sans-serif
 }
 .titleBox {  background-color: #CCEEFF; width: 95%;
-         padding-left: 20px; border-color: #6699CC #336699 #336699 #6699CC;
+         border-color: #6699CC #336699 #336699 #6699CC;
          color: #000066; border-style: double; 
       }
